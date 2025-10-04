@@ -20,4 +20,5 @@ The Ecommerce Analysis System is a data-driven web application developed using P
 - **Data-driven Decision Support**: Insights to optimize marketing, inventory, and sales strategies
 - **User-Friendly Interface**: Simple navigation and clean design for all users
 ## 🚀 Live Demo
-You can try the interactive dashboard here:
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://revenueanalysis.streamlit.app/)
+
