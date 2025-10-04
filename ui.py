@@ -7,6 +7,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px 
 from db import create_connection, reg, view
+import os
 
 #Page Configuration
 st.set_page_config(
@@ -25,7 +26,8 @@ def encode_image_to_base64(image_path):
     with open(image_path, "rb") as image_file:
         return base64.b64encode(image_file.read()).decode()
 
-image_path = r"C:\Users\HP\data science O7\1_aPROJECT\bg.jpg"
+#image_path = r"C:\Users\HP\data science O7\1_aPROJECT\bg.jpg"
+image_path = "assets/bg.jpg"
 base64_string = encode_image_to_base64(image_path)
 #print(base64_string)
 #st.write(base64_string)
@@ -749,4 +751,5 @@ st.markdown(
     unsafe_allow_html=True
 
 )
+
 
