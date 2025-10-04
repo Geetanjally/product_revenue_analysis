@@ -13,11 +13,11 @@ The Ecommerce Analysis System is a data-driven web application developed using P
 - **Plotly**: For interactive visualizations
 - **Streamlit**: For web app development
 ## 📊 Key Features:
-- State-wise Sales & Profit Analysis: Identify high-performing and low-performing regions
-- Time-based Sales Trends: Yearly and monthly breakdowns to spot seasonal patterns
-- Interactive Dashboards: Dynamic charts and filters for deeper exploration
-- Category & Segment Insights: Evaluate product categories and customer segments
-- Data-driven Decision Support: Insights to optimize marketing, inventory, and sales strategies
-- User-Friendly Interface: Simple navigation and clean design for all users
+- **State-wise Sales & Profit Analysis**: Identify high-performing and low-performing regions
+- **Time-based Sales Trends**: Yearly and monthly breakdowns to spot seasonal patterns
+- **Interactive Dashboards**: Dynamic charts and filters for deeper exploration
+- **Category & Segment Insights**: Evaluate product categories and customer segments
+- **Data-driven Decision Support**: Insights to optimize marketing, inventory, and sales strategies
+- **User-Friendly Interface**: Simple navigation and clean design for all users
 ## 🚀 Live Demo
 You can try the interactive dashboard here:
