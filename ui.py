@@ -1,6 +1,6 @@
 import base64 #background image
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit-option-menu import option-menu
 from streamlit_lottie import st_lottie  
 import requests  
 import streamlit as st
@@ -747,4 +747,5 @@ st.markdown(
     </div>
     """,
     unsafe_allow_html=True
+
 )
